@@ -53,5 +53,5 @@ I help teams scale distributed infrastructure, cut cloud waste, and migrate work
 ---
 
 ### 📫 Get in Touch
-- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/pratik-kulkarni-694769a4/)
-- **Consulting / Advisory:** [your-website.com](https://pratik-kulkarni.com)
+- **LinkedIn:** [Pratik](https://www.linkedin.com/in/pratik-kulkarni-694769a4/)
+- **Consulting / Advisory:** [My website](https://pratik-kulkarni.com)
