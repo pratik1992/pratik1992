@@ -43,14 +43,10 @@ I help teams scale distributed infrastructure, cut cloud waste, and migrate work
 ---
 
 ### 🛠️ Core Tech Stack
-<p align="left">
-  <img src="https://shields.io" alt="Kubernetes" />
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Terraform" />
-  <img src="https://shields.io" alt="Go" />
-  <img src="https://shields.io" alt="Java" />
-</p>
+
+* **Orchestration & Cloud Native:** Kubernetes, Docker, Linux
+* **Infrastructure as Code:** Terraform
+* **Languages:** Go, Java
 
 ---
 
